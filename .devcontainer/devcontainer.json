@@ -22,7 +22,7 @@
 	},
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "sudo ./.devcontainer/postCreateCommand.sh"
+	// "postCreateCommand": "sudo ./.devcontainer/postCreateCommand.sh"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
