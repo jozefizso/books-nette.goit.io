@@ -1,0 +1,9 @@
+### Nette app ###
+config/local.neon
+config/*.local.neon
+*.log
+
+
+### Composer ###
+composer.phar
+/vendor/
